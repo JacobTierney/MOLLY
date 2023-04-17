@@ -1,4 +1,4 @@
-
+// ALL CODE IS A DEMO TO TEST PARTS THIS IS UNFINALIZED, AND WILL BE ALTERED IN THE FUTURE.
 #include <Stepper.h>
 #include <Servo.h>          //Servo motor library. This is standard library
 #include <NewPing.h>        //Ultrasonic sensor function library. You must install this library
